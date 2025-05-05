@@ -1,5 +1,6 @@
 # Indian Traffic Violation Dashboard
 This project presents an interactive Power BI dashboard that analyzes traffic violations across different Indian states. The visualization offers deep insights into the types, causes, demographics, and financial impact of traffic violations.
+
 Key Features
 -Total Fine and Violations Overview: Displays total fine amount collected (₹10M) and number of violations (4000).
 -Violation Types Breakdown: Most frequent violations include Drunk Driving, No Helmet, and Wrong Parking.
